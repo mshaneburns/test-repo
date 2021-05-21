@@ -1,1 +1,4 @@
-theme: jekyll-theme-minimal
+title: Title set in .yml file
+description: Slate is a theme for GitHub Pages. from .yml file
+show_downloads: true
+theme: jekyll-theme-slate

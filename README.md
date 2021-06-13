@@ -13,3 +13,5 @@ This repository is created to explore how [GitHub Pages](https://pages.github.co
 Here's the [link](newwebpage.md) to the new webpage.
 
 Here's a [link](page2.md) to the second page.
+
+Here's a [link](index.md) to `index.md`
